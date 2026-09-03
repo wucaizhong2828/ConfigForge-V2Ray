@@ -1,2 +1,7 @@
-https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20703234
-https://140.82.113.3:443/4n0nymou3#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20918870
+https://223.5.5.5:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20977098
+https://223.5.5.5:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20317895
+https://223.5.5.5:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20997222
+https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20935182
+https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20403115
+https://223.6.6.6:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20509288
+https://223.5.5.5:443/dns-query#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20262341
